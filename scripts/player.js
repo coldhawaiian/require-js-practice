@@ -16,7 +16,7 @@ define("player", function() {
       "Agility: " + this.agility
     ];
 
-    console.log(stats.join("\n"))
+    console.log(stats.join("\n"));
   };
 
   return Player;
