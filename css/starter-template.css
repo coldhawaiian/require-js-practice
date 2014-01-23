@@ -1,3 +1,5 @@
+@import "../bower_components/bootstrap/dist/css/bootstrap.css";
+
 /* Source: http://getbootstrap.com/examples/starter-template/ */
 body {
   padding-top: 50px;
@@ -5,10 +7,4 @@ body {
 .starter-template {
   padding: 40px 15px;
   text-align: center;
-}
-/* Custom styles for jQuery Fancy Input */
-.fancyInput {
-  border: thin solid black;
-  font-size: 2.5em;
-  min-width: 20em;
 }
