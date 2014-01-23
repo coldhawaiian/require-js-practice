@@ -1,0 +1,22 @@
+{
+  "name": "require-js-practice",
+  "version": "0.0.0",
+  "homepage": "https://github.com/coldhawaiian/require-js-practice",
+  "authors": [
+    "Keoki Zee <cold.boston.hawaiian@gmail.com>"
+  ],
+  "license": "Copyrighted",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fancyInput": "~1.2.0",
+    "jquery": "1.9.1",
+    "bootstrap": "~3.0.3"
+  }
+}
